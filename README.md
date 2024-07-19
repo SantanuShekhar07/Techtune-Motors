@@ -13,10 +13,10 @@ Django is an MVT web framework that is used to build web applications.Django has
 
 
 ## Installation : 
-```
-* Clone the repository
-* Create Superuser (python manage.py createsuperuser) for accessing the admin portal
-* Type python manage.py runserver and run the program
-```
+
+ Clone the repository
+ Create Superuser (python manage.py createsuperuser) for accessing the admin portal
+ Type python manage.py runserver and run the program
+
 
 
